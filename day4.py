@@ -183,7 +183,7 @@ for i in range(0,n):
 
 # Day 4
 # code 1
-ls="aradhya"
+ls="gayatri"
 a=len(ls)
 b=[]
 for i in range(a-1,0,-1):
